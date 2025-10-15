@@ -28,13 +28,3 @@ Kroz Figma prototip prikazani su svi ključni procesi – od pregleda ponude do 
 
 ---
 
-## 👥 Autor
-- **Ibrahim Bišić**  
-  Student Softverskog inženjerstva, Politehnički fakultet, Univerzitet u Zenici  
-
----
-
-## 📸 Pregled dizajna
-*(Ovde možeš ubaciti slike ekrana iz Figma projekta, npr. `preview_homepage.png`, `preview_booking.png` itd.)*
-
-
