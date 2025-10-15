@@ -34,17 +34,7 @@ Kroz Figma prototip prikazani su svi ključni procesi – od pregleda ponude do 
 
 ---
 
-## 📁 Struktura fajla
-- `Rent A Car Platform.fig` – glavni Figma dizajn fajl (interfejs, komponente i prototip)
-- `/Preview/` – slike i snimci ekrana glavnih stranica (opcionalno za GitHub prikaz)
-
----
-
 ## 📸 Pregled dizajna
 *(Ovde možeš ubaciti slike ekrana iz Figma projekta, npr. `preview_homepage.png`, `preview_booking.png` itd.)*
 
----
 
-## 🪪 Licenca
-Ovaj projekat je izrađen u okviru kolegija **Grafika i vizualizacija**  
-na **Politehničkom fakultetu Univerziteta u Zenici**, isključivo u edukativne svrhe.
