@@ -1,2 +1,50 @@
-# MOTION
-UI/UX projekat, Figma) Osmislio i dizajnirao potpun korisnički interfejs i prototip aplikacije za iznajmljivanje vozila koristeći Figma. Projekat obuhvata kreiranje strukture stranica, komponenti i interaktivnih elemenata, s naglaskom na intuitivno korisničko iskustvo i vizualni identitet usklađen s modernim dizajnerskim principima.
+# 🚗 Rent A Car Platform – UI/UX Design
+
+**Rent A Car Platform** je moderan UI/UX projekat razvijen u **Figma** alatu.  
+Cilj projekta je dizajnirati intuitivno i privlačno korisničko sučelje za web i mobilnu platformu za **iznajmljivanje automobila**, s fokusom na jednostavnost korištenja, responzivni dizajn i preglednost informacija.
+
+---
+
+## 🎨 Ključne karakteristike
+- Interaktivni **Figma prototip** s kompletnim tokovima korisnika (rezervacija, pregled vozila, plaćanje)
+- Dizajniran **responsivan interfejs** (desktop, tablet, mobilni prikaz)
+- Jasna vizualna hijerarhija i minimalistički stil
+- Kreirane **komponente i varijante** za dosljedan dizajn
+- Fokus na UX principe: dostupnost, brzina i jednostavnost korištenja
+
+---
+
+## 🧠 Cilj projekta
+Cilj projekta bio je osmisliti korisničko iskustvo koje olakšava proces rezervacije i iznajmljivanja vozila putem digitalne platforme.  
+Kroz Figma prototip prikazani su svi ključni procesi – od pregleda ponude do potvrde rezervacije.
+
+---
+
+## 🛠️ Korišteni alati i tehnologije
+- **Figma** – glavni alat za dizajn i prototipiranje  
+- **Auto Layout** i **Component Variants** za skalabilni dizajn  
+- **Prototyping Tools** za simulaciju korisničkih tokova  
+- **Style Guide** i **Design System** za konzistentan izgled
+
+---
+
+## 👥 Autor
+- **Ibrahim Bišić**  
+  Student Softverskog inženjerstva, Politehnički fakultet, Univerzitet u Zenici  
+
+---
+
+## 📁 Struktura fajla
+- `Rent A Car Platform.fig` – glavni Figma dizajn fajl (interfejs, komponente i prototip)
+- `/Preview/` – slike i snimci ekrana glavnih stranica (opcionalno za GitHub prikaz)
+
+---
+
+## 📸 Pregled dizajna
+*(Ovde možeš ubaciti slike ekrana iz Figma projekta, npr. `preview_homepage.png`, `preview_booking.png` itd.)*
+
+---
+
+## 🪪 Licenca
+Ovaj projekat je izrađen u okviru kolegija **Grafika i vizualizacija**  
+na **Politehničkom fakultetu Univerziteta u Zenici**, isključivo u edukativne svrhe.
